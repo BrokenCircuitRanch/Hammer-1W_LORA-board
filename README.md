@@ -17,7 +17,7 @@ The **Hammer Board** is a ESP32-based development board designed for hobbyists a
 
 ## Circuit Diagram
 The Hammer Board’s circuit diagram is the blueprint for its functionality, detailing all connections for easy replication or modification. Find it in [`/schematics/hammer_board_schematic`](schematics/Hammer Board v2 Schematic.png) (created in [e.g., KiCad]).
-![Schematics](schematics/Hammer Board v2 Schematic.png)
+![Schematics](schematics/Hammer_Board_v2_Schematic.png)
 
 ### Using the Circuit Diagram
 1. Open the schematic.

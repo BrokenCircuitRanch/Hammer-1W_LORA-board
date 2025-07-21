@@ -5,10 +5,11 @@
 4;"J4";"HANDSON_KF301-2P";1;"KF301-2P";;;
 5;"U1";"MODULE_ESP32-DEVKITC";1;"ESP32-DEVKITC";;;
 6;"JP4,JP1,JP2,JP5,JP3,JP8,JP6";"PinHeader_1x02_P2.54mm_Vertical";7;"Jumper_2_Open";;;
-7;"U3";"MODULE_WIZ820IO";1;"WIZ820IO";;;
+7;"U3";"MODULE_WIZ5500";1;"WIZ5500";;;
 8;"U2";"XCVR_E22-900M30S";1;"E22-900M30S";;;
 9;"H2,H1,H4";"MountingHole_3.5mm_Pad_TopBottom";3;"MountingHole_Pad";;;
 10;"J1";"SMA_Wurth_60312002114503_Vertical";1;"60312002114503";;;
 11;"H3";"MountingHole_3.5mm_Pad_TopBottom";1;"~";;;
-12;"J2";"SAMTEC_MTSW-105-07-T-S-140";1;"GPS";;;
-13;"J3";"SAMTEC_MTLW-104-X-X-S-X";1;"OLED";;;
+12;"J2";"NEO 6 GPS Module";1;"GPS";;;
+13;"J3";".96 OLED Display Module";1;"OLED";;;
+14;"U4";"Buck Voltage Reg Module";1;"13770";;;

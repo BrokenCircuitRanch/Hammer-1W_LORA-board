@@ -29,3 +29,5 @@ It compiles like ethernet should work but as far as meshtastic, Im not the hot s
 The ethernet does work with standard w5500 sketches in the arduino ecosystem just not meshtastic. Have not tested funcionality on reticulum or meshcore as of this wirting. 
 
 Enjoy guys! hope you can get inspired!
+![3d Lora Board KICAD Generated](images/lorae22.jpg)
+

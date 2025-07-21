@@ -24,7 +24,7 @@ The Hammer Board’s circuit diagram is the blueprint for its functionality, det
 2. Check the [BOM](schematics/BOM.csv) for component part numbers and sourcing (e.g., DigiKey, Mouser, other).
 4. Modify the design as needed, respecting the [CC BY-NC 4.0 license](#license).
 
-   git clone https://github.com/BrokenCircuitRanch/hammer-board OR copy the variant/diy/hammer-Board/variant.ini and variant/diy/platformio.ini to the main trunk of meshtastic and compile. 
+   git clone https://github.com/BrokenCircuitRanch/Meshtastic OR copy the variant/diy/hammer-Board/variant.ini and variant/diy/platformio.ini to the main trunk of meshtastic and compile. 
 It compiles like ethernet should work but as far as meshtastic, Im not the hot shot programmer and have no clue why there is no traffic or why it does not talk. There is some talk on the forums as to why there is no Ethernet, but nothing resolved. 
 The ethernet does work with standard w5500 sketches in the arduino ecosystem just not meshtastic. Have not tested funcionality on reticulum or meshcore as of this wirting. 
 

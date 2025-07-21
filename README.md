@@ -1,6 +1,6 @@
 # Hammer-1W_LORA-board
 Hammer Board 1W LORA Circuit Board
-![Hammer in hand](images/Hammer V2.jpg)
+![Hammer in hand](images/Hammer_V2.jpg)
 
 # Hammer Board
 
